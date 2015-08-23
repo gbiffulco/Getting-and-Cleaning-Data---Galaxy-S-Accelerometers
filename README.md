@@ -18,8 +18,8 @@ run_analysis.R is a script that does the following:
 5. Created README and CodeBook markup 
 6. Copied key files of working directory to the synced folder with GitHub repository
 
-## Dependencies
+## Dependencies (Packages)
 
-dplyr
-reshape2
-data.table
+- dplyr
+- reshape2
+- data.table
